@@ -23,6 +23,7 @@
   --destaque: #0077ff;
   --destaque-inverso: #66bbff;
   --fundo-card: #ffffff;
+  transition: 0.5s;
 
 }
 
@@ -33,6 +34,7 @@ body.escuro {
   --destaque: #ff5522;
   --destaque-inverso: #a73917;
   --fundo-card: #444444;
+  transition: 0.5s;
 }
 
 body {
